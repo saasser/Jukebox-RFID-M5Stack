@@ -1,0 +1,10 @@
+# Compilation files
+*.hex
+*.elf
+*.bin
+build/
+
+# Editors and sistem
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,7 +1,7 @@
 /*
-  Jukebox_RFID_M5Stack.ino
+  NFC_card_reader_ESP32.ino
   
-  Created: 15 Oct 2026
+  Created: 23 Oct 2026
   Modified: 05 Nov 2026
   By: Daniel Santillana 
   University of Extremadura

@@ -1,3 +1,15 @@
+/*
+  dfplayer_funcionality_check_code
+  
+  Created: 3 Nov 2026
+  Modified: 05 Nov 2026
+  By: Daniel Santillana 
+  University of Extremadura
+  dsantil@alumnos.unex.es
+  Spain
+*/
+
+
 #include <M5Unified.h>
 #include <DFRobotDFPlayerMini.h>
 

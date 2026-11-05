@@ -1,3 +1,16 @@
+/*
+  Jukebox_RFID_M5Stack.ino
+  
+  Created: 23 Oct 2026
+  Modified: 05 Nov 2026
+  By: Daniel Santillana 
+  University of Extremadura
+  dsantil@alumnos.unex.es
+  Spain
+*/
+
+
+
 #include <SPI.h>
 #include <SD.h>
 
